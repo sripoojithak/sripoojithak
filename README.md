@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sripoojithak
-- I’m interested in Automation
+- 👋 Hi, I’m Sri Poojitha 
+- I’m interested in Automation & AI
 - I’m currently learning Automation & Cloud Tech
 - I'm working in Automation Testing 
 
