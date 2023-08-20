@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sri Poojitha 
-- I’m interested in Automation & AI
-- I’m currently learning Automation & Cloud Tech
-- I'm working in Automation Testing 
+- I’m interested in AI, Cloud & Automation.
+- I’m currently learning Data Science & Azure.
+- I'm working in Wipro - Automation Test Engineer.
 
 <!---
 sripoojithak/sripoojithak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
